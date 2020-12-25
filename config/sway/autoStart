@@ -1,3 +1,0 @@
-if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
-	XXB_DEFAULT_LAYOUT=gb exec sway
-fi
