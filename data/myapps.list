@@ -1,9 +1,7 @@
 bc
 brightnessctl
-evolution
 firefox
 ghostscript
-gnome-keyring
 gst-libav
 gst-plugins-base
 gst-plugins-good
@@ -13,15 +11,12 @@ libde265
 libva-intel-driver
 libva-utils
 libvdpau-va-gl
-neovim-qt
 pdftricks
 zathura
 zathura-cb
 zathura-djvu
 zathura-pdf-mupdf
 zathura-ps
-alacritty
-neovim-qt
 mpv
 kitty
 ufw

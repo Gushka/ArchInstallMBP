@@ -46,7 +46,4 @@ case $session in
 	*			) exec $1;;
 esac
 
-exec ~/bin/getBingWallpaper.sh &
-
-#exec xmonad
 #exec dwm 
